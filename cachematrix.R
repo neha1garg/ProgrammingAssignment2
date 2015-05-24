@@ -15,7 +15,9 @@ x
 cache_inverse<-fuction(solve){
 cache<-solve
 }
-
+get_inverse<-function(){
+cache
+}
 }
 
 
